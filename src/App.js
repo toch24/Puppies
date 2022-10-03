@@ -16,6 +16,8 @@ function App() {
           <div className="image"><img src={puppy} alt = ""></img></div>
         
         <div className="button"><button onClick={newPuppy}> Give me puppy! </button></div>
+        <br/>
+        <div>I love you :)</div>
     </div>
   );
 }
