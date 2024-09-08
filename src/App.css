@@ -8,16 +8,16 @@
 .image{
   display: flex;
   justify-content: center;
-  width: 100%;
-  height: 100%;
+  width: 400px;
+  height: 250px;
   margin-bottom: 5%;
   margin-top: 5%;
 }
 
 .image img{
   justify-content: center;
-  width: 30%;
-  height: 50%;
+  width: 100%;
+  height: 100%;
 }
 
 
